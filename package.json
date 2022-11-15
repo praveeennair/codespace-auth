@@ -1,0 +1,20 @@
+{
+  "name": "codespace-auth",
+  "version": "1.0.0",
+  "description": "an simple auth system created in codespace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveeennair/codespace-auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveeennair/codespace-auth/issues"
+  },
+  "homepage": "https://github.com/praveeennair/codespace-auth#readme"
+}
